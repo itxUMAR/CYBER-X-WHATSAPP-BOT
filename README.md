@@ -1,6 +1,6 @@
 # UMAR FAROOQ 
 
-<p align = center>   <img src="https://telegra.ph/file/55d1084aaae113bbe72ed.jpg" alt="GIF" width="600" height="300"/> </p>
+<p align = center>   <img src="https://telegra.ph/file/55d1084aaae113bbe72ed.jpg" alt="GIF" width="500" height="300"/> </p>
 
 <p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
